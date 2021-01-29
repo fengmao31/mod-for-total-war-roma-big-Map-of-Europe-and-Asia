@@ -1,0 +1,124 @@
+1、先进入游戏把视频设置里的分辨率都调为16位的，此为生成spr贴图必须。比如 1024x768x16
+2、创建快捷方式，并在目标栏加入 -sprite_script
+如："I:\Rome - Total War\SanGuoTW.exe" -sprite_script
+3、在游戏根目录下建一个名为sprite_script.txt的文件。
+   并在这个文件中写入要完成的兵种名称这里拿三国乡勇为例：
+Minbin_Hanxuan  romans_scipii       (前面Minbin_Hanxuan兵种名称，后面是势力）
+Minbin_Hanxuan  macedon
+Minbin_Hanxuan  thrace
+Minbin_Hanxuan  greek_cities
+Minbin_Hanxuan  seleucid
+Minbin_Hanxuan  romans_senate
+Minbin_Hanxuan  carthage
+Minbin_Hanxuan  scythia
+Minbin_Hanxuan  numidia
+Minbin_Hanxuan  egypt
+Minbin_Hanxuan  germans
+Minbin_Hanxuan  romans_brutii
+Minbin_Hanxuan  pontus
+Minbin_Hanxuan  parthia
+Minbin_Hanxuan  armenia
+Minbin_Hanxuan  romans_julii
+Minbin_Hanxuan  gauls
+Minbin_Hanxuan  britons
+Minbin_Hanxuan  dacia
+Minbin_Hanxuan  spain
+Minbin_Hanxuan  slave
+
+同时，也要在descr_model_battle.txt中有这个兵种才可以：
+如：
+;乡勇1
+type          Minbin_Hanxuan		
+skeleton				fs_semi_fast_dagger
+indiv_range				40
+texture		romans_scipii,		alexander/data/models_unit/sanguoxin/textures/xiangyong.tga
+texture		macedon, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_kang.tga
+texture		thrace, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_yuanshu.tga
+texture		greek_cities, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_taoqian.tga
+texture		seleucid, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_kongrong.tga
+texture		romans_senate, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_han.tga
+texture		carthage, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_yuanshao.tga
+texture		scythia, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_gongsunzan.tga
+texture		numidia, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_zhangyan.tga
+texture		egypt, 			alexander/data/models_unit/sanguoxin/textures/xiangyong_mateng.tga
+texture		germans, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_lijue.tga
+texture		romans_brutii, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_sunce.tga
+texture		pontus, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_yanbaihu.tga
+texture		parthia,		alexander/data/models_unit/sanguoxin/textures/xiangyong_liubiao.tga
+texture		armenia, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_hanxuan.tga
+texture		romans_julii, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_liubei.tga
+texture		gauls, 			alexander/data/models_unit/sanguoxin/textures/xiangyong_liuzhang.tga
+texture		britons, 		alexander/data/models_unit/sanguoxin/textures/xiangyong_zhanglu.tga
+texture		dacia, 			alexander/data/models_unit/sanguoxin/textures/xiangyong_menghuo.tga
+texture		spain, 			alexander/data/models_unit/sanguoxin/textures/xiangyong_zaiye.tga
+texture		slave, 			alexander/data/models_unit/sanguoxin/textures/xiangyong_luanjun.tga
+model_flexi			alexander/data/models_unit/sanguoxin/xiangyong.cas, 15
+model_flexi			alexander/data/models_unit/sanguoxin/xiangyong1.cas, 30
+model_flexi			alexander/data/models_unit/sanguoxin/xiangyong2.cas, 40
+model_flexi			alexander/data/models_unit/sanguoxin/xiangyong3.cas, max
+model_sprite                60.0, alexander/data/sprites/romans_scipii_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/macedon_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/thrace_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/greek_cities_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/seleucid_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/romans_senate_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/carthage_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/scythia_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/numidia_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/egypt_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/germans_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/romans_brutii_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/pontus_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/parthia_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/armenia_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/gauls_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/romans_julii_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/britons_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/dacia_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/spain_xiangyong_sprite.spr
+model_sprite                60.0, alexander/data/sprites/slave_xiangyong_sprite.spr
+model_tri	400, 0.5f, 0.5f, 0.5f
+4、在DATA文件夹下必须要有一个名为Sprites的文件夹没有就创建一个。
+
+5、然后启动游戏，游戏会定在启动画面一段时间后自动关闭，这时，在Sprites文件里就会出SPR文件了
+这样拥有这个兵种势力的spr就做好了
+
+另附上原英文说明
+How to Create SpritesBy SubRosa
+
+Sprites are simple, 2-dimensional images used by the game to replace full 3-dimensional models and skins when viewing units from a great distance. The reason for doing so is simply because it saves the computer processing power, making the game run faster. RTW already comes with Sprites for all the original units. However, modders often want to add sprites for the units they create themselves. This article will show you how. 
+Before you change any of your data files, be sure to make a backup copy of it first. That way if worse comes to worse you can always restore your original in case you really mess something up. 
+Getting StartedFirst, make sure your game is set to run in only 16 bit graphics rather than 32 bit. Also turn off Anti-Aliasing, otherwise you will just get black pictures. When doing this be sure to check your video card's settings as well as those in the game, because sometimes your video drivers will override a game's. Finally, be sure you are not using the -ne command switch, as the sprites may not generate properly with it. 
+Now you must add the -sprite_script switch to your game's command line (look here to learn more about command line switches). Next you must create a text file named sprite_script.txt in your game's root folder (the one the .exe files are in). In this file you must list units you want sprites generated for. Use one line per unit, and enter in the Soldier name used for the unit (also the same name used in Descr_Model_Battle.txt), followed by a space, and then the faction you want the sprites for. Use "no_faction" if you do not want the sprites for any particular faction. For example: 
+amazon_cavalry	  	pontus
+merc_amazon_archers	  	no_faction
+slave_amazon_archers	  	slave
+
+You will also need a RTW\Data\Sprites folder. It probably will not exist to begin with as the sprites that come with the game are kept in the pack files, so if it is not, go ahead a create the folder. Generate Your SpritesThen start up the game. It will give you no indication of the progress of the sprite generation. It will simply go the main screen and close automatically when it is finished. Afterward you will find your sprites in your RTW\Data\Sprites folder. There will be a *.spr file for each unit you listed, and a number of *.tga files. For exmaple: 
+amazon_amazon_hoplite_elite_sprite.spr
+amazon_amazon_hoplite_elite_sprite_000.tga
+amazon_amazon_hoplite_elite_sprite_001.tga
+amazon_amazon_hoplite_elite_sprite_002.tga
+amazon_amazon_hoplite_elite_sprite_003.tga
+
+You can use the .tga files as they are, but it is much more efficient on space to convert them to .dds files in a graphics editor such as Photoshop first. If using Photoshop you will need to install the Nvidia .dds plugin first. Save your .dds files with DXT5 compression, generate mip maps on, and swap red and alpha off. Like this: 
+ 
+Also note that if you do convert them to .dds files, you will have to go back afterward and change the files names from *.dds to *.tga.dds. Like so: 
+amazon_amazon_hoplite_elite_sprite.spr
+amazon_amazon_hoplite_elite_sprite_000.tga.dds
+amazon_amazon_hoplite_elite_sprite_001.tga.dds
+amazon_amazon_hoplite_elite_sprite_002.tga.dds
+amazon_amazon_hoplite_elite_sprite_003.tga.dds
+
+Enable The SpritesNow that you have your sprite files, you have to tell the game to use them. You do this by editing the RTW\Data\Descr_Model_Battle.txt file. Go to each unit you generated spites for and add a sprite line referencing the *.spr file. Example: 
+type	amazon_hoplite_elite
+skeleton	fs_slow_spearman, fs_slow_swordsman
+indiv_range	40
+texture	amazon, amazon/data/models_unit/textures/amazon_hoplite_elite.tga
+model_flexi	amazon/data/models_unit/amazon_hoplite_elite_high.cas, 15
+model_flexi	amazon/data/models_unit/amazon_hoplite_elite_med.cas, 30
+model_flexi	amazon/data/models_unit/amazon_hoplite_elite_low.cas, 40
+model_flexi 
+amazon/data/models_unit/amazon_hoplite_elite_lowest.cas, max
+model_sprite	60.0, data/sprites/amazon_amazon_hoplite_elite_sprite.spr
+model_tri	400, 0.5f, 0.5f, 0.5f

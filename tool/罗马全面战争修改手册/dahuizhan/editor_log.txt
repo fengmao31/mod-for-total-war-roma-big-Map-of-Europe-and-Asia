@@ -1,0 +1,148 @@
+************** STARTING BATTLE EDITOR
+
+CREATE_ARMY::do_func() - Creating army at 0x11056938 (General: Óò Õ <˜), adding to gauls
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (58.4526, 104.282104)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (77.414872, -273.11248)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (-62.552132, 149.870336)
+Adding unit (’12≈Æ) at 0x11753478 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’12≈Æ) at 0x11753478 - Deployed at (-22.7718, 103.308984) in deployment area at 0x312e5e0
+Adding unit (’12≈Æ) at 0x1182e3c0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’12≈Æ) at 0x1182e3c0 - Deployed at (-19.936706, 77.621776) in deployment area at 0x312e5e0
+Adding unit (’12≈Æ) at 0x1164f528 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’12≈Æ) at 0x1164f528 - Deployed at (1.378914, 33.482346) in deployment area at 0x312e5e0
+Adding unit (’Õ) at 0x10ff4560 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’Õ) at 0x10ff4560 - Deployed at (21.565174, -17.02861) in deployment area at 0x312e5e0
+MOVE_UNIT_FUNCTION::do_func() - Moving unit (gauls:’Õ) at 0x10ff4560 from (44.975064, -8.14448) to (44.975064, -8.14448)
+	 with rotation -2.013062 and width 19.74306 - now residing in deployment area at 0x312e5e0
+Adding unit (’—[Õ) at 0x1161c318 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’—[Õ) at 0x1161c318 - Deployed at (31.71975, -59.83016) in deployment area at 0x312e5e0
+Adding unit (’0eu) at 0x1161c560 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’0eu) at 0x1161c560 - Deployed at (40.160656, -106.563312) in deployment area at 0x312e5e0
+Adding unit (’0eu) at 0x116bb088 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’0eu) at 0x116bb088 - Deployed at (50.862248, -148.67344) in deployment area at 0x312e5e0
+Adding unit (’0eu) at 0x116bb2d0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (’0eu) at 0x116bb2d0 - Deployed at (53.450012, -191.008816) in deployment area at 0x312e5e0
+CREATE_ARMY::do_func() - Creating army at 0x10fc89f8 (General: Óò General Bagration), adding to armenia
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (-537.767808, 31.358426)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (-501.190432, -318.21312)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (-713.971136, -6.76265)
+Adding unit (ƒÖØh“x) at 0x10fc93c0 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (ƒÖØh“x) at 0x10fc93c0 - Deployed at (-557.714368, 9.0324) in deployment area at 0x312e61c
+Adding unit (ƒÖØh“x) at 0x10fc9d48 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (ƒÖØh“x) at 0x10fc9d48 - Deployed at (-557.424448, -33.241242) in deployment area at 0x312e61c
+Adding unit (ƒÖØh“x) at 0x10fca2c0 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (ƒÖØh“x) at 0x10fca2c0 - Deployed at (-557.389568, -92.206448) in deployment area at 0x312e61c
+Adding unit (ƒÖØÂ©K[ä) at 0x10fcbf80 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (ƒÖØÂ©K[ä) at 0x10fcbf80 - Deployed at (-548.092032, -146.529424) in deployment area at 0x312e61c
+Adding unit (  ƒÖØÕ) at 0x10fcc4a8 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (  ƒÖØÕ) at 0x10fcc4a8 - Deployed at (-620.228032, -46.979972) in deployment area at 0x312e61c
+Adding unit (ƒÖØçu) at 0x10fcc6f0 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (ƒÖØçu) at 0x10fcc6f0 - Deployed at (-595.812736, -91.781088) in deployment area at 0x312e61c
+Trying to remove unit (ƒÖØh“x) at 0x10fc93c0 from deployment area at 0x312e61c and the unit wasn't found
+Trying to remove unit (ƒÖØh“x) at 0x10fc9d48 from deployment area at 0x312e61c and the unit wasn't found
+Trying to remove unit (ƒÖØh“x) at 0x10fca2c0 from deployment area at 0x312e61c and the unit wasn't found
+Trying to remove unit (ƒÖØÂ©K[ä) at 0x10fcbf80 from deployment area at 0x312e61c and the unit wasn't found
+Trying to remove unit (  ƒÖØÕ) at 0x10fcc4a8 from deployment area at 0x312e61c and the unit wasn't found
+Trying to remove unit (ƒÖØçu) at 0x10fcc6f0 from deployment area at 0x312e61c and the unit wasn't found
+Trying to remove unit (’12≈Æ) at 0x11753478 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’12≈Æ) at 0x1182e3c0 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’12≈Æ) at 0x1164f528 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’Õ) at 0x10ff4560 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’—[Õ) at 0x1161c318 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’0eu) at 0x1161c560 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’0eu) at 0x116bb088 from deployment area at 0x312e5e0 and the unit wasn't found
+Trying to remove unit (’0eu) at 0x116bb2d0 from deployment area at 0x312e5e0 and the unit wasn't found
+************** STARTING BATTLE EDITOR
+
+CREATE_ARMY::do_func() - Creating army at 0x11c2ba50 (General: Óò General von Reiche ), adding to germans
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (675.5376, 123.35564)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (733.392768, -97.419824)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (806.038976, 194.837008)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (829.18624, -63.122972)
+Adding unit (noÎ12 ≈Æ ) at 0x112b9038 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ12 ≈Æ ) at 0x112b9038 - Deployed at (737.206016, -.075485) in deployment area at 0x312e5e0
+Adding unit (noÎ12 ≈Æ ) at 0x112b93b8 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ12 ≈Æ ) at 0x112b93b8 - Deployed at (705.103296, 92.557248) in deployment area at 0x312e5e0
+Adding unit (noÎ12 ≈Æ ) at 0x11650d48 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ12 ≈Æ ) at 0x11650d48 - Deployed at (723.188736, 55.578996) in deployment area at 0x312e5e0
+Adding unit (noÎ12 ≈Æ ) at 0x116b96a0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ12 ≈Æ ) at 0x116b96a0 - Deployed at (743.276032, -46.828928) in deployment area at 0x312e5e0
+Adding unit (noÎÁ|ÕK ) at 0x11438fc0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÁ|ÕK ) at 0x11438fc0 - Deployed at (766.7808, -55.434676) in deployment area at 0x312e5e0
+Adding unit (noÎÁ|ÕK ) at 0x114394e8 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÁ|ÕK ) at 0x114394e8 - Deployed at (755.841344, -11.339272) in deployment area at 0x312e5e0
+Adding unit (noÎÁ|ÕK ) at 0x11439a10 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÁ|ÕK ) at 0x11439a10 - Deployed at (748.74624, 33.197338) in deployment area at 0x312e5e0
+Adding unit (noÎÁ|ÕK ) at 0x93a3f18 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÁ|ÕK ) at 0x93a3f18 - Deployed at (738.420224, 71.930832) in deployment area at 0x312e5e0
+Adding unit (noÎÁ|ÕK ) at 0x93a4398 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÁ|ÕK ) at 0x93a4398 - Deployed at (727.722048, 109.876312) in deployment area at 0x312e5e0
+Adding unit (noÎ—[cu ) at 0x1182dbb8 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ—[cu ) at 0x1182dbb8 - Deployed at (738.15008, -24.909788) in deployment area at 0x312e5e0
+Adding unit (noÎ—[cu ) at 0x120f5e68 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ—[cu ) at 0x120f5e68 - Deployed at (726.946304, 26.601354) in deployment area at 0x312e5e0
+Adding unit (noÎ—[cu ) at 0x120f6920 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ—[cu ) at 0x120f6920 - Deployed at (696.25952, 115.151672) in deployment area at 0x312e5e0
+Adding unit (noÎ—[cu ) at 0x11e14740 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ—[cu ) at 0x11e14740 - Deployed at (711.603392, 70.085528) in deployment area at 0x312e5e0
+Adding unit (noÎÚHu ) at 0x11471a68 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÚHu ) at 0x11471a68 - Deployed at (779.948992, -30.682074) in deployment area at 0x312e5e0
+Adding unit (noÎÚHu ) at 0x11471f90 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÚHu ) at 0x11471f90 - Deployed at (775.908032, -12.58662) in deployment area at 0x312e5e0
+Adding unit (œû; ä ) at 0x114726b0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (œû; ä ) at 0x114726b0 - Deployed at (754.772416, 116.375048) in deployment area at 0x312e5e0
+Adding unit (noÎÕ ) at 0x11cf1d90 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎÕ ) at 0x11cf1d90 - Deployed at (761.581248, 70.009808) in deployment area at 0x312e5e0
+Adding unit (noÎ—[Õ ) at 0x11cf29e0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ—[Õ ) at 0x11cf29e0 - Deployed at (768.098752, 44.65288) in deployment area at 0x312e5e0
+Adding unit (noÎ¯2u ) at 0x11722630 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ¯2u ) at 0x11722630 - Deployed at (770.613376, 15.019406) in deployment area at 0x312e5e0
+MOVE_UNIT_FUNCTION::do_func() - Moving unit (germans:noÎ¯2u ) at 0x11722630 from (803.833024, 32.158504) to (803.833024, 32.158504)
+	 with rotation -1.854966 and width 19.18469 - now residing in deployment area at 0x312e5e0
+Adding unit (noÎ ) at 0x92be1e0 to deployment area at 0x312e5e0
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (noÎ ) at 0x92be1e0 - Deployed at (780.8496, 50.211924) in deployment area at 0x312e5e0
+CREATE_ARMY::do_func() - Creating army at 0x12c403f0 (General: Óò Graf Bellegarde  ), adding to pontus
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (349.344896, 133.055264)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (413.883232, -283.79248)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (243.214784, -148.5348)
+INSERT_DEPLOY_POINT::do_func() - Adding deploy point at (232.724864, 120.20228)
+Adding unit (g0)12≈Æ ) at 0x925c560 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x925c560 - Deployed at (333.819776, 92.107896) in deployment area at 0x312e61c
+Adding unit (g0)12≈Æ ) at 0x925ca88 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x925ca88 - Deployed at (343.289536, 54.035796) in deployment area at 0x312e61c
+Adding unit (g0)12≈Æ ) at 0x12c29058 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x12c29058 - Deployed at (349.3456, 21.716076) in deployment area at 0x312e61c
+Adding unit (g0)12≈Æ ) at 0x12c29778 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x12c29778 - Deployed at (349.090464, -21.509728) in deployment area at 0x312e61c
+Adding unit (g0)12≈Æ ) at 0x115b3a98 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x115b3a98 - Deployed at (355.097344, -69.6046) in deployment area at 0x312e61c
+Adding unit (g0)12≈Æ ) at 0x115b4110 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x115b4110 - Deployed at (358.715552, -110.306296) in deployment area at 0x312e61c
+Adding unit (g0)12≈Æ ) at 0x11351180 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)12≈Æ ) at 0x11351180 - Deployed at (362.522464, -152.678576) in deployment area at 0x312e61c
+Adding unit (g0)<+Veu) at 0x11351cd8 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)<+Veu) at 0x11351cd8 - Deployed at (372.795648, -206.4588) in deployment area at 0x312e61c
+Adding unit (g0)Õ ) at 0x114eb680 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)Õ ) at 0x114eb680 - Deployed at (282.850944, -113.14) in deployment area at 0x312e61c
+Adding unit (g0)>u ) at 0x112c7d90 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)>u ) at 0x112c7d90 - Deployed at (322.385824, -72.179584) in deployment area at 0x312e61c
+Adding unit (g0)çu ) at 0x112c8420 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)çu ) at 0x112c8420 - Deployed at (297.358784, -17.776486) in deployment area at 0x312e61c
+Adding unit (g0)<+Veu) at 0x11363610 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)<+Veu) at 0x11363610 - Deployed at (339.667616, 65.878328) in deployment area at 0x312e61c
+Adding unit (g0)<+Veu) at 0x1172d338 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)<+Veu) at 0x1172d338 - Deployed at (348.333408, 34.072844) in deployment area at 0x312e61c
+Adding unit (g0)<+Veu) at 0x1172e040 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)<+Veu) at 0x1172e040 - Deployed at (351.030976, -5.715351) in deployment area at 0x312e61c
+Adding unit (g0)<+Veu) at 0x11cf24b0 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)<+Veu) at 0x11cf24b0 - Deployed at (350.684544, -55.589536) in deployment area at 0x312e61c
+Adding unit (Y)Á|ÕK ) at 0x1172b140 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (Y)Á|ÕK ) at 0x1172b140 - Deployed at (319.208608, 85.660072) in deployment area at 0x312e61c
+Adding unit (Y)Á|ÕK ) at 0x1172b9b0 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (Y)Á|ÕK ) at 0x1172b9b0 - Deployed at (292.75808, 78.665208) in deployment area at 0x312e61c
+Adding unit (Y)ÚHu ) at 0x1138ef28 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (Y)ÚHu ) at 0x1138ef28 - Deployed at (266.251152, 71.697888) in deployment area at 0x312e61c
+Adding unit (g0)uu ) at 0x1138faa8 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)uu ) at 0x1138faa8 - Deployed at (320.081248, 32.817566) in deployment area at 0x312e61c
+Adding unit (g0)åôÕ ) at 0x116e1910 to deployment area at 0x312e61c
+CREATE_UNIT_FUNCTION::do_func() - Creating unit (g0)åôÕ ) at 0x116e1910 - Deployed at (294.550464, 27.913864) in deployment area at 0x312e61c
